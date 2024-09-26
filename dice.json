@@ -1,0 +1,12 @@
+{
+    "roll": {
+        "savedRolls": {
+            "flight": "2d6+3",
+            "fight": "1d8",
+            "tension": "1d10-2",
+            "test": "12d12",
+            "testing": "6d8"
+        }
+    },
+    "verbosity": 4
+}
